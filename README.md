@@ -1,2 +1,2 @@
 # pmks-resolusi
-Repository untuk menyimpan rencana tindak lanjut kedepan
+Repository untuk menyimpan rencana tindak lanjut PMKS kedepan
